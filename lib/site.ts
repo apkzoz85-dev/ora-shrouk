@@ -3,17 +3,17 @@
 // ─────────────────────────────────────────────────────────────
 
 export const site = {
-  url: "https://www.solanaeast.org", // ← غيّرها بالدومين الفعلي
+  url: "https://ora-solana.org", // ← غيّرها بالدومين الفعلي
   agency: "solana",
   project: "سولانا إيست لين",
   projectEn: "Solana East Lane",
   developer: "أورا للتطوير العقاري",
   developerEn: "ORA Developers",
-  phone: "01038154693",
-  phoneIntl: "+201038154693",
-  phoneDisplay: "01038154693",
-  whatsapp: "201038154693",
-  email: "leads@solanaeast.org",
+  phone: "01020068999",
+  phoneIntl: "+201020068999",
+  phoneDisplay: "01020068999",
+  whatsapp: "201020068999",
+  email: "leads@ora-solana.org",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
   gtag: "",
