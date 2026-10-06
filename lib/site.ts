@@ -9,10 +9,10 @@ export const site = {
   projectEn: "Solana East Lane",
   developer: "أورا للتطوير العقاري",
   developerEn: "ORA Developers",
-  phone: "01020068999",
-  phoneIntl: "+201020068999",
-  phoneDisplay: "01020068999",
-  whatsapp: "201020068999",
+  phone: "01066850504",
+  phoneIntl: "+201066850504",
+  phoneDisplay: "01066850504",
+  whatsapp: "201066850504",
   email: "leads@ora-solana.org",
 
   // ← Google Ads: ضع الـ tag و labels قبل النشر
